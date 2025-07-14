@@ -18,3 +18,5 @@ Imagine a company has 3 factories that make products and 4 warehouses that need 
 
 "Output":
 
+[Output task 4.docx](https://github.com/user-attachments/files/21218844/Output.task.4.docx)
+
